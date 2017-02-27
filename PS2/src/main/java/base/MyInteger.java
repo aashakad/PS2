@@ -1,7 +1,7 @@
 package base;
 
 public class MyInteger {
-	int iValue;
+	private int iValue;
 
 	public MyInteger(int iValue) {
 		super();
